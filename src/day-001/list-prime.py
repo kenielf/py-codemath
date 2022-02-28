@@ -11,5 +11,4 @@ if __name__ == '__main__':
             else:  # If for loop exits with break statement
                 prime_list.append(n)
 
-    print(prime_list) # Print the resulting list of prime numbers
-
+    print(prime_list)  # Print the resulting list of prime numbers
